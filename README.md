@@ -22,7 +22,7 @@ Key areas covered in the project include:
 - **Automation Tool:** Selenium WebDriver 🌐  
 - **Test Framework:** TestNG ✅  
 - **Build Tool:** Maven 📦  
-- **IDE Used:** IntelliJ IDEA / Eclipse / STS (any) 🖥️  
+- **IDE Used:**  Eclipse  🖥️  
 
 ---
 
